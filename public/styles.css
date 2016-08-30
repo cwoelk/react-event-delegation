@@ -1,0 +1,23 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.outerComponent {
+  padding: 20%;
+  background-color: red;
+}
+.outerComponent.inputFocussed {
+  background-color: lime;
+}
+
+label {
+  padding: 40px;
+  background-color: yellow;
+}
+
+input {
+  margin: 40px;
+  background-color: green;
+}
